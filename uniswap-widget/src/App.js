@@ -8,23 +8,22 @@ const jsonRpcUrlMap = {
 }
 
 const theme = {
-  primary: '#1F4A05',
-  secondary: '#5F7D52',
-  interactive: '#CBD6BA',
-  container: '#D9ECD9',
-  module: '#E9F7DF',
-  accent: '#8E8B78',
-  outline: '#CADDC2',
+  primary: '#000',
+  secondary: '#666',
+  interactive: '#AFAFAF',
+  container: '#DADADA',
+  module: '#FFF',
+  accent: '#0018F4',
+  outline: '#000',
   dialog: '#FFF',
-  fontFamily: 'Nunito',
-  borderRadius: 0.8,
-
+  fontFamily: 'Comic Sans MS',
+  borderRadius: 0.2,
 }
 
 function App() {
   return (
     <div className="Uniswap">
-    <SwapWidget jsonRpcUrlMap={jsonRpcUrlMap}  theme={theme}/>
+    <SwapWidget jsonRpcUrlMap={jsonRpcUrlMap}  theme={theme} width="100%"/>
   </div>
   );
 }
