@@ -1,5 +1,6 @@
 import { SwapWidget } from '@uniswap/widgets'
 import '@uniswap/widgets/fonts.css'
+import './index.css'
 
 
 const jsonRpcUrlMap = {
@@ -17,7 +18,7 @@ const theme = {
   dialog: '#FFF',
   fontFamily: 'Nunito',
   borderRadius: 0.8,
-  
+
 }
 
 function App() {
