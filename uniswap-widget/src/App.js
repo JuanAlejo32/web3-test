@@ -17,6 +17,7 @@ const theme = {
   dialog: '#FFF',
   fontFamily: 'Nunito',
   borderRadius: 0.8,
+  
 }
 
 function App() {
