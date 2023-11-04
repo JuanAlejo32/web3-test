@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/web3-test/static/css/main.4976c329.css",
+    "main.css": "/web3-test/static/css/main.0e6bb7fb.css",
     "main.js": "/web3-test/static/js/main.1030e81f.js",
     "static/js/398.6781a8a3.chunk.js": "/web3-test/static/js/398.6781a8a3.chunk.js",
     "static/js/87.6028ffb5.chunk.js": "/web3-test/static/js/87.6028ffb5.chunk.js",
@@ -78,7 +78,7 @@
     "static/media/inter-vietnamese-500-normal.woff2": "/web3-test/static/media/inter-vietnamese-500-normal.af96698e6248b5be6d91.woff2",
     "static/media/inter-vietnamese-400-normal.woff2": "/web3-test/static/media/inter-vietnamese-400-normal.789afb71d327988e2fc8.woff2",
     "index.html": "/web3-test/index.html",
-    "main.4976c329.css.map": "/web3-test/static/css/main.4976c329.css.map",
+    "main.0e6bb7fb.css.map": "/web3-test/static/css/main.0e6bb7fb.css.map",
     "main.1030e81f.js.map": "/web3-test/static/js/main.1030e81f.js.map",
     "398.6781a8a3.chunk.js.map": "/web3-test/static/js/398.6781a8a3.chunk.js.map",
     "87.6028ffb5.chunk.js.map": "/web3-test/static/js/87.6028ffb5.chunk.js.map",
@@ -120,7 +120,7 @@
     "787.b98ef4d4.chunk.js.map": "/web3-test/static/js/787.b98ef4d4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4976c329.css",
+    "static/css/main.0e6bb7fb.css",
     "static/js/main.1030e81f.js"
   ]
 }
