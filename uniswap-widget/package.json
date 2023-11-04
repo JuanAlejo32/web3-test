@@ -2,7 +2,7 @@
   "name": "uniswap-widget",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://juanalejo32.github.io/web3-test",
+  "homepage": "https://juanalejo32.github.io/web3-test",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
