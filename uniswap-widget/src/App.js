@@ -4,7 +4,7 @@ import './index.css'
 
 
 const jsonRpcUrlMap = {
-  1: ['https://eth-mainnet.g.alchemy.com/v2/E2HbvxalVEIwdFH1McL0tSkcBkpxD1aV']
+  1: ['https://mainnet.infura.io/v3/c8a21aca4e2c4750ac7905d192427bf7']
 }
 
 const theme = {
